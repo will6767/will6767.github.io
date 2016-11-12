@@ -1,0 +1,84 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: "Will"
+description: "Will's blog,use Jekyll and github pages."
+keywords: "Will,William,blog,Jekyll,github,gh-pages"
+baseurl: "/"
+url: "http://will6767.github.io"
+# url: "http://127.0.0.1:4000"
+
+# author
+author:
+  name: 'Will'
+  first_name: 'William'
+  last_name: 'Wood'
+  email: 'will_wood@me.com'
+  facebook_username: 'will6767'
+  github_username: 'will6767'
+  head_img: 'static/img/landing/Will.jpg'
+  desc: 'I am a Computer Science student at the University of York. I am currently in my 2nd year and am expecting to graduate in June 2018.'
+
+# sections
+sections:
+  - id: 'about-me'
+    i18n: 'nav.about_me'
+    name: 'About'
+    tpl: 'about.html'
+    css: ''
+
+  - id: 'career'
+    i18n: 'nav.career'
+    name: 'Career'
+    tpl: 'career.html'
+    css: 'timeline'
+
+  - id: 'skills'
+    i18n: 'nav.skills'
+    name: 'Skills'
+    tpl: 'skills.html'
+    css: 'team'
+
+  - id: 'projects'
+    i18n: 'nav.projects'
+    name: 'Projects'
+    tpl: 'projects.html'
+    css: 'project'
+
+  - id: 'links'
+    i18n: 'nav.link'
+    name: 'Links'
+    tpl: 'links.html'
+    css: 'contact'
+
+# localization
+languages:
+  - locale: 'en'
+    flag: 'static/img/flags/United-Kingdom.png'
+  - locale: 'fr'
+    flag: 'static/img/flags/France.png'
+
+# blog img path
+#img_path: 'http://www.jack003.com/static/img/blog'
+
+# baidu analytics
+ba:
+  # uuid: 317acca9ef9255b934e46371e471431d
+
+# google analytics
+ga:
+  id: UA-87253835-1
+
+# growingIO
+gio:
+  #id: a49d4901c7853da9
+
+# Build settings
+encoding: "utf-8"
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
