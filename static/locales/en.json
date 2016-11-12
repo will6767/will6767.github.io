@@ -7,7 +7,7 @@
     "about_me": "About",
     "skills": "Skills",
     "projects": "Projects",
-    "career": "Career",
+    "career": "Experience",
     "link": "Link"
   },
   "about_me":{
@@ -25,19 +25,21 @@
     "rsser": "Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually."
   },
   "career":{
-    "my_career": "My Career",
-    "nextcode": "Nextcode",
-    "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
-    "nextcode_date": "Apr. 2016",
-    "nextcode_job": "Python Developer",
-    "netease": "Netease Game",
-    "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
-    "netease_date": "Jun. 2015",
-    "netease_job": "Dev Ops",
-    "ucloud": "Ucloud",
-    "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
-    "ucloud_date": "Sep. 2013",
-    "ucloud_job": "Dev Ops",
+    "my_career": "My Experience",
+    "nextcode": "The White Company",
+    "nextcode_des": "The White Company is a luxury clothing, bedding and home decor company - Worked in the annual 2 day clearance sale helping with the home decor and furniture.",
+    "nextcode_date": "Sept. 2016",
+    "nextcode_job": "Sales Assistant",
+    "netease": "Nestlé",
+    "netease_des": "Working with the Engineering team on a data anaylsis tool. Writing VBA scripts macros with excel.",
+    "netease_date": "Jun. 2016",
+    "netease_job": "Data Analysis Intern",
+    "ucloud": "Montreux Jazz Festival",
+    "ucloud_des": "The Montreux Jazz Festival is one of the most famous and iconic jazz festivals in the world.
+- Worked on a large team responsible for festival bracelets.
+- Worked with the same team for 4 years from 2012 -2015.",
+    "ucloud_date": "Jul. 2016",
+    "ucloud_job": "Customer Service",
     "college": "Graduation",
     "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
     "college_date": "Jul. 2013",

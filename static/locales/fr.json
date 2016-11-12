@@ -7,7 +7,7 @@
     "about_me": "A Propos",
     "skills": "Compétences",
     "projects": "Projets",
-    "career": "Carrière",
+    "career": "Experience",
     "link": "Liens"
   },
   "about_me":{
@@ -25,7 +25,7 @@
     "rsser": "Rsser是一个Ionic应用，在这个应用下，我们可以自由的阅读新闻和文章，你可以从给定的列表中添加rss地址也可以手动添加。"
   },
   "career":{
-    "my_career": "职业生涯",
+    "my_career": "Mes Experiences",
     "nextcode": "Nextcode",
     "nextcode_des": "现在我在Nextcode，使用Python为基因分析项目做网站.",
     "nextcode_date": "2016年4月",
