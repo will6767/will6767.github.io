@@ -19,10 +19,9 @@
   },
   "projects":{
     "my_projects": "Projets",
-    "saplatform": "Saplatform",
-    "jalpc": "Jalpc",
-    "angularjs": "Parse。",
-    "rsser": "Rsser"
+    "sepr": "SEPR",
+    "recommendation": "Jalpc",
+
   },
   "career":{
     "my_career": "My Experience",

@@ -1,23 +1,11 @@
 - name: 'SEPR'
-  i18n: 'saplatform'
-  url: '/Jack614/saplatform'
+  i18n: 'sepr'
+  url: 'gandhi-inc.me'
   img: 'static/img/landing/saplatform.png'
-  desc: 'SEPR is a second year module at the University of York.'
+  desc: 'SEPR is a second year module at the University of York. We have to design a turn by turn strategy game based on the university campus.'
 
 - name: 'Recommendation System'
-  i18n: 'jalpc'
+  i18n: 'recommendation'
   url: '/Jack614/jalpc_jekyll_theme'
   img: 'static/img/landing/jekyll.png'
   desc: "At EPFL, we had to make a Recommendation System in 1st year. "
-
-- name: 'Jalpc-A'
-  i18n: 'angularjs'
-  url: '/Jack614/Jalpc-A'
-  img: 'static/img/landing/angularjs.png'
-  desc: "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well."
-
-- name: 'Rsser'
-  i18n: 'rsser'
-  url: '/Jack614/Rsser'
-  img: 'static/img/landing/rsser.png'
-  desc: Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually.
