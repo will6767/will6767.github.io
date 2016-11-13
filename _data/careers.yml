@@ -2,7 +2,7 @@
     detail: The White Company
     i18n: TWC
   desc:
-    detail: > The White Company is a luxury clothing, bedding and home decor company\n - Worked in the annual 2 day clearance sale helping with the home decor and furniture.
+    detail: The White Company is a luxury clothing, bedding and home decor company. - Worked in the annual 2 day clearance sale helping with the home decor and furniture.
     i18n: TWC_des
   date:
     detail: Sept. 2016
@@ -44,7 +44,7 @@
     detail: Nestlé York PTC
     i18n: nestlePTC
   desc:
-    detail: > Nestlé PTC York (Product Technology Center) are in charge of research in chocolate, confectionery and biscuits. Worked in the IT department on the following tasks.\n - Full virtual audit of 400+ IT Assets\n - Built and configured various laptops and desktops\n - Resolved user faults as requested\n - Created a video for informing users how to use “Clickshare” the laptop wireless presentation solution
+    detail: > Nestlé PTC York (Product Technology Center) are in charge of research in chocolate, confectionery and biscuits. Worked in the IT department on the following tasks. - Full virtual audit of 400+ IT Assets - Built and configured various laptops and desktops - Resolved user faults as requested - Created a video for informing users how to use “Clickshare” the laptop wireless presentation solution
     i18n: nestlePTC_des
   date:
     detail: Mar. 2016
