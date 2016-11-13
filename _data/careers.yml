@@ -13,7 +13,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Nestlé
+    detail: Nestlé Engineering
     i18n: nestle
   desc:
     detail: Working with the Engineering team on a data anaylsis tool. Writing VBA scripts macros with excel.
@@ -55,6 +55,48 @@
   icon: fa-cloud
 
 - name:
+    detail: EigerSecuirty
+    i18n: eiger
+  desc:
+    detail: EigerSecurity is a start-up company focused on new innovative ways to protect homes and small businesses using alarm systems. - Setting up new machines with relays. - Testing machines before client installation
+    i18n: eiger_des
+  date:
+    detail: Feb. - Aug. 2015
+    i18n: eiger_date
+  job:
+    detail: Technician
+    i18n: eiger_job
+  icon: fa-cloud
+
+- name:
+    detail: Smartronic
+    i18n: smartronic
+  desc:
+    detail: Smartronic is a small local IT shop in Vevey, offering on and off site repair services and website management. - Setting up and administering web servers. Creating and administering web sites including HTML and with Joomla CMS. - Offering IT support and repairs for both Windows and OS X operating systems.
+    i18n: smartronic_des
+  date:
+    detail: Feb. - Aug. 2015
+    i18n: smartronic_date
+  job:
+    detail: IT Technician
+    i18n: smartronic_job
+  icon: fa-cloud
+
+- name:
+    detail: Nestlé B-Well
+    i18n: bwell
+  desc:
+    detail: Nestlé is a leading nutrition, health and wellness company. The B-Well department is in charge of the wellness unit. - Collation of minutes and records from a B-Well project meeting.
+    i18n: bwell_des
+  date:
+    detail: July - Aug. 2014
+    i18n: bwell_date
+  job:
+    detail: IT Technician
+    i18n: bwell_job
+  icon: fa-cloud
+
+- name:
     detail: Graduation
     i18n: college
   desc:
@@ -67,3 +109,17 @@
     detail: Student
     i18n: college_job
   icon: fa-book
+
+- name:
+    detail: Nestlé CLGO
+    i18n: clgo
+  desc:
+    detail: Nestlé is a leading nutrition, health and wellness company. The CLGO unit is in charge of all IT solutions and management at the HQ office. - Migrating employees to a new platform (SNOW5). - Installation of docking stations and new computers. - Staging, backing up and preparing employee computers. - Refortmatting and updating hardware on employee computers
+    i18n: clgo_des
+  date:
+    detail: July - Aug. 2013
+    i18n: clgo_date
+  job:
+    detail: IT Technician
+    i18n: clgo_job
+  icon: fa-cloud
