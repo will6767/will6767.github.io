@@ -1,6 +1,6 @@
 - name: 'SEPR'
   i18n: 'sepr'
-  url: 'gandhi-inc.me'
+  url: '/Wigder/Gandhi-Inc.'
   img: 'static/img/landing/gandhi.png'
   desc: 'SEPR is a second year module at the University of York. We have to design a turn by turn strategy game based on the university campus.'
 
