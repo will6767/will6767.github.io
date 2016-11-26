@@ -24,19 +24,17 @@
 
   },
   "career":{
-    "my_career": "My Experience",
+    "my_career": "Mes Experiences",
     "TWC": "The White Company",
-    "TWC_des": "The White Company is a luxury clothing, bedding and home decor company - Worked in the annual 2 day clearance sale helping with the home decor and furniture.",
+    "TWC_des": "The White Company est une compagnie de vetements, meubles et 'bedding' de luxe - Je travaillé trois jours pendant les soldes, je m'occupais du département de meubles.",
     "TWC_date": "Sept. 2016",
-    "TWC_job": "Sales Assistant",
+    "TWC_job": "Assistant",
     "nestle": "Nestlé",
-    "nestle_des": "Working with the Engineering team on a data anaylsis tool. Writing VBA scripts macros with excel.",
+    "nestle_des": "Engineering team on a data anaylsis tool. Writing VBA scripts macros with excel.",
     "nestle_date": "Jun. 2016",
     "nestle_job": "Data Analysis Intern",
     "MJF": "Montreux Jazz Festival",
-    "MJF_des": "The Montreux Jazz Festival is one of the most famous and iconic jazz festivals in the world.
-- Worked on a large team responsible for festival bracelets.
-- Worked with the same team for 4 years from 2012 -2015.",
+    "MJF_des": "The Montreux Jazz Festival is one of the most famous and iconic jazz festivals in the world. - Worked on a large team responsible for festival bracelets. - Worked with the same team for 4 years from 2012 -2015.",
     "MJF_date": "Jul. 2016",
     "MJF_job": "Customer Service",
     "college": "Graduation",
