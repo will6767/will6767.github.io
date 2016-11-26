@@ -8,4 +8,4 @@
   i18n: 'recommendation'
   url: '/will6767/RecommendationSystem'
   img: 'static/img/landing/epfl.png'
-  desc: "At EPFL, we had to make a Recommendation System in 1st year. This was to try and suggest data based on an input matrix."
+  desc: "At EPFL, we had to make a Recommendation System in 1st year. This was to try and suggest data based on an input matrix. "
