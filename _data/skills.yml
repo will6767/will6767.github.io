@@ -10,5 +10,8 @@
 - name: Latex
   percentage: 55
 
+- name: Haskell
+  percentage: 50
+
 - name: C#
   percentage: 35
