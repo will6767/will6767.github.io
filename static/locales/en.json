@@ -8,11 +8,11 @@
     "skills": "Skills",
     "projects": "Projects",
     "career": "Experience",
-    "link": "Link"
+    "link": "Contact"
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a Computer Science student at the University of York. I am currently in my 2nd year and am expecting to graduate in June 2018. Originally from Australia but grew up most of my life in Switzerland. Love travelling and new adventures."
+    "des": "I am a Computer Science student at the University of York. I am currently in my final year and am expecting to graduate in July 2018. Originally from Australia but grew up most of my life in Switzerland. Love travelling and new adventures. I am actively looking for graduate opportunities in London and Switzerland commencing August/September 2018."
   },
   "skills":{
     "my_skills": "My Skills"
@@ -66,7 +66,7 @@
     "my_blog": "My Blog"
   },
   "link":{
-    "link": "Link",
+    "link": "Contact",
     "view": "views"
   }
 
