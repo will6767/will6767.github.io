@@ -1,11 +1,40 @@
 - name:
+    detail: Wine Appreciation Society of York
+    i18n: wasy
+  desc:
+    detail: I was elected for the Wine Appreciation Society for the University of York. The role is organizing all events, coordinating with the committee and running regualar meetings to go over future projects.
+    i18n: wasy_des
+  date:
+    detail: Sept. 2017 - Present
+    i18n: wasy_date
+  job:
+    detail: President
+    i18n: wasy_job
+  icon: fa-book
+
+- name:
+    detail: Nestlé York PTC
+    i18n: ptc
+  desc:
+    detail: Responsible for building and rolling out Windows 10 throughout the department, verifying migrated data and replacing computers where necessary. - First level support for all employees, - Performed an asset audit on all machines
+    i18n: ptc_des
+  date:
+    detail: March 2017 - Sept. 2017
+    i18n: ptc_date
+  job:
+    detail: IT Intern
+    i18n: ptc_job
+  icon: fa-book
+
+
+- name:
     detail: European Society of York
     i18n: eurosoc
   desc:
-    detail: In Feburary 2017, I cofounded a European Society for the University of York. The roles included coordinating events with the committee and keeping our members informed and updated.
+    detail: In Feburary 2017, I cofounded a European Society for the University of York. The roles include coordinating events with the committee and keeping our members informed and updated.
     i18n: eurosoc_des
   date:
-    detail: Feb. 2017
+    detail: Feb. 2017 - Present
     i18n: eurosoc_date
   job:
     detail: Vice President

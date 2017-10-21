@@ -7,11 +7,8 @@
 - name: Java
   percentage: 75
 
-- name: Latex
-  percentage: 55
-
 - name: Haskell
   percentage: 50
 
-- name: C#
+- name: PHP
   percentage: 35
