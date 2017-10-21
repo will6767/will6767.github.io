@@ -8,7 +8,7 @@
     "skills": "Skills",
     "projects": "Projects",
     "career": "Experience",
-    "link": "Contact"
+    "contact": "Contact"
   },
   "about_me":{
     "about_me": "About Me",
@@ -65,8 +65,8 @@
   "blog":{
     "my_blog": "My Blog"
   },
-  "link":{
-    "link": "Contact",
+  "contact":{
+    "contact": "Contact",
     "view": "views"
   }
 

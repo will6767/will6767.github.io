@@ -45,10 +45,10 @@ sections:
     tpl: 'projects.html'
     css: 'project'
 
-  - id: 'links'
-    i18n: 'nav.link'
-    name: 'Links'
-    tpl: 'links.html'
+  - id: 'contact'
+    i18n: 'nav.contact'
+    name: 'Contact'
+    tpl: 'contact.html'
     css: 'contact'
 
 # localization
