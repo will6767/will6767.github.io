@@ -1,4 +1,22 @@
 - name:
+    detail: Cisco
+    i18n: cisco
+  desc:
+    detail: Working on Cisco’s on-prem video conferencing solution, Cisco Meeting Sever as an Esclations Engineer. Some tasks include:
+    \n - Troubleshoot and solve complex problems on unique customer de- ployments.
+    \n - Dealing with customer cases that have been escalated from level 2 support engineers. Often the customer sentiment is delicate, there are short deadlines and other demands to accommodate.
+    \n - Write python scripts to troubleshoot and automate tasks for cus- tomers.
+    \n - Giving internal training for the product to other support teams.",
+    i18n: cisco_des
+  date:
+    detail: Sept. 2017 - Present
+    i18n: cisco_date
+  job:
+    detail: Escalations Engineer
+    i18n: cisco_job
+  icon: fa-cloud
+
+- name:
     detail: Wine Appreciation Society of York
     i18n: wasy
   desc:
