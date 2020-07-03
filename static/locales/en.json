@@ -12,7 +12,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a Computer Science student at the University of York. I am currently in my final year and am expecting to graduate in July 2018. Originally from Australia but grew up most of my life in Switzerland. Love travelling and new adventures. I am actively looking for graduate opportunities in London and Switzerland commencing August/September 2018."
+    "des": "Currently working in London as an escalations engineer for a video conferencing company. Originally from Australia but grew up most of my life in Switzerland. Love travelling and new adventures."
   },
   "skills":{
     "my_skills": "My Skills"
@@ -24,9 +24,17 @@
   },
   "career":{
     "my_career": "My Experience",
+    "cisco": "Cisco",
+    "cisco_des": "Working on Cisco’s on-prem video conferencing solution, Cisco Meeting Sever as an Esclations Engineer. Some tasks include:
+    \n - Troubleshoot and solve complex problems on unique customer de- ployments.
+    \n - Dealing with customer cases that have been escalated from level 2 support engineers. Often the customer sentiment is delicate, there are short deadlines and other demands to accommodate.
+    \n - Write python scripts to troubleshoot and automate tasks for cus- tomers.
+    \n - Giving internal training for the product to other support teams.",
+    "cisco_date": "Sept. 2017 - Present",
+    "cisco_job": "Esclaations Engineer",
     "wasy": "Wine Appreciation Society of York",
     "wasy_des": "I was elected for the Wine Appreciation Society for the University of York. The role is organizing all events, coordinating with the committee and running regualar meetings to go over future projects.",
-    "wasy_date": "Sept. 2017 - Present",
+    "wasy_date": "Sept. 2017 - June 2018",
     "wasy_job": "President",
     "ptc": "Nestlé York PTC",
     "ptc_des": "Responsible for building and rolling out Windows 10 throughout the department, verifying migrated data and replacing computers where necessary. - First level support for all employees, - Performed an asset audit on all machines",
