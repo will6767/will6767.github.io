@@ -1,17 +1,11 @@
 - name: Python
-  percentage: 60
-
-- name: HTML/CSS
   percentage: 70
 
+- name: HTML/CSS
+  percentage: 45
+
 - name: Java
-  percentage: 75
-
-- name: Haskell
-  percentage: 50
-
-- name: PHP
-  percentage: 35
+  percentage: 45
 
 - name: VBA
-  percentage: 55
+  percentage: 35
